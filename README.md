@@ -3,7 +3,7 @@ jQuery-Scrubnails
 
 jQuery Plugin to generate iPhoto like thumbnails for a given JSON array.  Moving your mouse over the thumbnail container will scrub through the images in that set.
   
-	  var data = [
+	  var json = [
 	  	{
 				"images":['wentworth.jpeg','rcd.jpeg']
 			},
